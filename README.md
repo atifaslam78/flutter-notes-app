@@ -8,14 +8,19 @@ Designed for simplicity and performance, this app is ideal for everyday personal
 
 📝 **Create Notes:**
 Add new notes with a title and description.
+
 🛠️**Edit Existing Notes:**
 Update your notes at any time.
+
 ❌ **Delete Notes:** 
 Remove notes that are no longer needed.
+
 💾**Local Data Persistence:**
 Uses SQLite (`sqflite` package) for fast and secure offline storage.
+
 🕒**Auto Timestamp:** 
 Each note is saved with its creation or last modified time.
+
 📱**Clean UI:**
 A simple, readable layout using Flutter’s modern widgets and best practices.
 
@@ -23,10 +28,13 @@ A simple, readable layout using Flutter’s modern widgets and best practices.
 
 **Flutter & Dart:**
 Cross-platform app development
+
 **sqflite:** 
 Local database storage
+
 **path\_provider:**
 To access device directories
+
 **intl:**
 For formatting date and time
 
@@ -45,7 +53,8 @@ Basic state management and UI interactions
 
 📂 **Use Cases**
 
-Personal note-taking
-Task or to-do management
-Study/journal logging
+**Personal note-taking**
 
+**Task or to-do management**
+
+**Study/journal logging**
