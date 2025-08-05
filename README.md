@@ -9,22 +9,22 @@ Designed for simplicity and performance, this app is ideal for everyday personal
 📝 **Create Notes:**
 Add new notes with a title and description.
 
-🛠️**Edit Existing Notes:**
+🛠️ **Edit Existing Notes:**
 Update your notes at any time.
 
 ❌ **Delete Notes:** 
 Remove notes that are no longer needed.
 
-💾**Local Data Persistence:**
+💾 **Local Data Persistence:**
 Uses SQLite (`sqflite` package) for fast and secure offline storage.
 
-🕒**Auto Timestamp:** 
+🕒 **Auto Timestamp:** 
 Each note is saved with its creation or last modified time.
 
-📱**Clean UI:**
+📱 **Clean UI:**
 A simple, readable layout using Flutter’s modern widgets and best practices.
 
-🚀**Technologies Used**
+🚀 **Technologies Used**
 
 **Flutter & Dart:**
 Cross-platform app development
@@ -38,7 +38,7 @@ To access device directories
 **intl:**
 For formatting date and time
 
-📦**Project Structure**
+📦 **Project Structure**
 
 The project follows a modular structure, making it easier to maintain and scale. It separates concerns by using a model class for notes, a database helper for all DB operations, and clear UI screens for different functionalities (home, add/edit).
 
